@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**喜欢一个人也许想要占有，爱上一个人被拒绝要放手**
+<center>**喜欢一个人也许想要占有，爱上一个人被拒绝要放手**</center>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Mr-qingjiegong&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-qingjiegong&theme=radical">
 </p>
 
-**一个喜欢代码的马喽 一个摆弄花草的不务正业 一个卖水果的搬运工**
+<center>**一个喜欢代码的马喽 一个摆弄花草的不务正业 一个卖水果的搬运工**</center>
 
 <marquee><b><font color="#e66b6d">百</font>
 				<font color="#e66d98">里</font>

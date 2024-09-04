@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-qingjiegong&show_icons=true)
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Mr-qingjiegong&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-qingjiegong&theme=radical">
+</p>

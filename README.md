@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center" font-weight: bold;>喜欢一个人也许想要占有，爱上一个人被拒绝要放手</p>
+<p align="center";font-weight: bold;>喜欢一个人也许想要占有，爱上一个人被拒绝要放手</p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Mr-qingjiegong&show_icons=true&theme=tokyonight&line_height=27">

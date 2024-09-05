@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-qingjiegong&theme=github-dark-dimmed&locale=zh_Hans)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Mr-qingjiegong)
+
+![Visitor Count](https://profile-counter.glitch.me/Mr-qingjiegong/count.svg)
+

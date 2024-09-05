@@ -24,3 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-qingjiegong&" alt="mr-qingjiegong" /></p>
 
 ![Visitor Count](https://profile-counter.glitch.me/Mr-qingjiegong/count.svg)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Mr-qingjiegong&theme=dracula)
+

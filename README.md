@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-qingjiegong&label=Profile%20views&color=0e75b6&style=flat" alt="mr-qingjiegong" /> </p>
 
-- 📝 I regularly write articles on [Mr-qingjiegong.github.io](Mr-qingjiegong.github.io)
+- 📝 I regularly write articles on [Mr-qingjiegong.github.io](https://mr-qingjiegong.github.io/)
 
 - 📫 How to reach me **chenxiaoyi0727@163.com**
 
